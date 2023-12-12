@@ -7,6 +7,7 @@
   <div>
     <a href=https://github.com/Henzocosta/>
    <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Henzocosta&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/> 
+      <br>
    <img hieght= "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Henzocosta&layout=compact&lang_count=16&theme=shadow_blue"/>
   </div>
  <div style="display: inline_block"><br>
@@ -25,3 +26,4 @@
    <a href="henzocosta10@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/henzocosta/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  </div>
+![Snake Animation](https://github.com/Henzocosta/Henzocosta/blob/output/github-contribution-grid-snake.svg)
