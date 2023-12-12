@@ -2,7 +2,7 @@
 
 - 💻 I currently work with Front-End.
 - 📖 Studying React, TypeScript, Node.js and Next.
-- 🧑‍🎓 Graduation in Science Computer.
+- 🧑‍🎓 Undergrad in Science Computer.
 
   <div>
     <a href=https://github.com/Henzocosta/>
