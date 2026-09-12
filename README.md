@@ -1,28 +1,97 @@
-### Whats up? Welcome to my GitHub. So, they call me Henzo.
+# Hi, I'm Henzo Costa 👋
 
-- 💻 I currently work with Front-End.
-- 📖 Studying React, TypeScript, Node.js and Next.
-- 🧑‍🎓 Undergrad in Science Computer.
+### Junior .NET Developer | C# | ASP.NET Core
 
-  <div>
-    <a href=https://github.com/Henzocosta/>
-   <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Henzocosta&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/> 
-      <br>
-   <img hieght= "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Henzocosta&layout=compact&lang_count=16&theme=shadow_blue"/>
-  </div>
- <div style="display: inline_block"><br>
-  <img aling="center" alt="Henzo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img aling="center" alt="Henzo-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img aling="center" alt="Henzo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img aling="center" alt="Henzo-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img aling="center" alt="Henzo-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img aling="center" alt="Henzo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img aling="center" alt="Henzo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>       
- </div>
+I'm an aspiring Junior .NET Developer based in Western Australia, focused on building practical backend applications with C# and the .NET ecosystem.
 
- ##
- <div>
-   <a href="https://www.instagram.com/henzo_costa1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
-   <a href="henzocosta10@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/henzocosta/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- </div>
+I'm currently developing my skills in C#, .NET, ASP.NET Core, REST APIs, SQL, Git and Docker, with a focus on writing clean, maintainable and practical code.
+
+---
+
+## 🚀 Current Focus
+
+- 💻 C# & .NET
+- 🌐 ASP.NET Core & REST APIs
+- 🗄️ SQL & Databases
+- 🔧 Git & GitHub
+- 🐳 Docker
+- 🧱 Object-Oriented Programming
+- 🧹 Clean and maintainable code
+
+---
+
+## 📚 Currently Learning
+
+I'm working towards becoming job-ready for Junior .NET Developer roles.
+
+My current learning path includes:
+
+- C# & Object-Oriented Programming
+- .NET & ASP.NET Core
+- REST API development
+- SQL & relational databases
+- Entity Framework Core
+- Authentication & JWT
+- Docker
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+
+<div>
+  <a href="https://github.com/Henzocosta">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henzocosta&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henzocosta&layout=compact&lang_count=8&theme=shadow_blue"/>
+  </a>
+</div>
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+
+  <img align="center" alt=".NET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+
+  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+</div>
+
+---
+
+## 💻 Projects
+
+I'm building practical projects with C# and .NET to strengthen my backend development skills and build my portfolio.
+
+More projects coming soon.
+
+---
+
+## 📫 Connect with me
+
+<div>
+  <a href="mailto:henzocosta10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/henzocosta/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/henzo_costa1/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
+
+---
+
+### Build. Solve. Learn. Grow.
