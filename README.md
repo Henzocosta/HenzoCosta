@@ -37,14 +37,9 @@ My current learning path includes:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<div align="center">
-  <a href="https://github.com/Henzocosta">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henzocosta&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henzocosta&layout=compact&langs_count=8&theme=shadow_blue"/>
-  </a>
-</div>
+I'm building and publishing practical C# and .NET projects as I progress through my learning journey.
 
 ---
 
