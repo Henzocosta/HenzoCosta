@@ -39,10 +39,10 @@ My current learning path includes:
 
 ## 📊 GitHub Stats
 
-<div>
+<div align="center">
   <a href="https://github.com/Henzocosta">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henzocosta&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henzocosta&layout=compact&lang_count=8&theme=shadow_blue"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henzocosta&layout=compact&langs_count=8&theme=shadow_blue"/>
   </a>
 </div>
 
